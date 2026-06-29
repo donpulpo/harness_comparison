@@ -1,0 +1,135 @@
+# sources.md — Every URL fetched, for reproducibility
+
+## Excluded candidate (not a GitHub repo, inaccessible)
+- https://paulhoekstra.substack.com/p/agentic-engineering-the-guardrails — **HTTP 403 Forbidden** on every fetch attempt. Excluded from concepts.md, comparison.md, commands.md.
+
+## obra/superpowers
+- https://github.com/obra/superpowers
+- https://raw.githubusercontent.com/obra/superpowers/main/.claude-plugin/plugin.json
+- https://raw.githubusercontent.com/obra/superpowers/main/README.md
+- https://raw.githubusercontent.com/obra/superpowers/main/RELEASE-NOTES.md
+- https://raw.githubusercontent.com/obra/superpowers/main/.pre-commit-config.yaml
+- https://raw.githubusercontent.com/obra/superpowers/main/hooks/hooks.json
+- https://raw.githubusercontent.com/obra/superpowers/main/hooks/session-start
+- https://raw.githubusercontent.com/obra/superpowers/main/.pi/extensions/superpowers.ts
+- https://raw.githubusercontent.com/obra/superpowers/main/docs/porting-to-a-new-harness.md
+- https://raw.githubusercontent.com/obra/superpowers/main/docs/testing.md
+- https://raw.githubusercontent.com/obra/superpowers/main/docs/README.kimi.md
+- https://raw.githubusercontent.com/obra/superpowers/main/docs/README.opencode.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-plans/SKILL.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/subagent-driven-development/SKILL.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/verification-before-completion/SKILL.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/test-driven-development/SKILL.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/finishing-a-development-branch/SKILL.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/SKILL.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/requesting-code-review/SKILL.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/receiving-code-review/SKILL.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/dispatching-parallel-agents/SKILL.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/executing-plans/SKILL.md
+- https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-skills/SKILL.md
+- https://github.com/obra/superpowers/tree/main/.github
+- https://github.com/obra/superpowers/tree/main/.github/workflows (404 — no CI found)
+- https://github.com/obra/superpowers/tree/main/scripts
+- https://github.com/obra/superpowers/tree/main/skills
+- https://github.com/obra/superpowers/tree/main/docs
+- https://github.com/obra/superpowers/tree/main/tests
+- https://github.com/obra/superpowers/blob/main/AGENTS.md
+- https://github.com/obra/superpowers/tags
+- https://www.star-history.com/obra/superpowers/
+- https://trendshift.io/repositories/17415
+- https://raw.githubusercontent.com/obra/superpowers/main/package.json
+- raw.githubusercontent.com/obra/superpowers/main/evals/pyproject.toml (404 — moved to separate `superpowers-evals` repo)
+- api.github.com (403 Forbidden, unauthenticated — fell back to rendered HTML pages per task's fallback instruction)
+
+## Chachamaru127/claude-code-harness
+- https://github.com/Chachamaru127/claude-code-harness
+- https://github.com/Chachamaru127/claude-code-harness/issues
+- https://github.com/Chachamaru127/claude-code-harness/releases
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/CHANGELOG.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/.github/workflows/validate-plugin.yml
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/.github/workflows/opencode-compat.yml
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/docs/cognitive-load-surfaces.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/go/DESIGN.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/docs/ARCHITECTURE.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/skills/harness-work/SKILL.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/scripts/posttooluse-tampering-detector.sh
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/skills/harness-release/SKILL.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/docs/MEMORY_POLICY.md
+- https://github.com/Chachamaru127/harness-mem
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/docs/model-routing-policy.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/scripts/check-release-version-sync.py
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/scripts/final-scan-redaction.py
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/docs/i18n-language-contract.md
+- https://github.com/Chachamaru127/claude-code-harness/tree/main/docs/onboarding
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/docs/tool-capability-matrix.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/agents/reviewer.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/docs/harness-review-operating-model.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/skills/harness-review/SKILL.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/docs/release-preflight.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/docs/long-running-harness.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/skills/harness-plan/SKILL.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/skills/harness-sync/SKILL.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/docs/CLAUDE-commands.md
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/harness.toml
+- https://raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/.claude-code-harness.config.yaml
+- raw.githubusercontent.com/Chachamaru127/claude-code-harness/main/package.json (404 — confirms no Node.js dependency claim)
+- api.github.com code search (403 Forbidden, unauthenticated)
+
+## heliohq/ship
+- https://github.com/heliohq/ship
+- https://github.com/heliohq/ship/commits/main
+- https://github.com/heliohq/ship/find/main (file-tree search, confirmed no .ts/.tsx/.py files)
+- https://github.com/heliohq/ship/tree/main
+- https://github.com/heliohq/ship/tree/main/.github/workflows (404 — no CI found)
+- https://github.com/heliohq/ship/tree/main/scripts
+- https://raw.githubusercontent.com/heliohq/ship/main/.claude-plugin/plugin.json
+- https://raw.githubusercontent.com/heliohq/ship/main/README.md
+- https://raw.githubusercontent.com/heliohq/ship/main/docs/design/002-session-context-injection.md
+- https://raw.githubusercontent.com/heliohq/ship/main/docs/design/003-codex-plugin-packaging.md
+- https://raw.githubusercontent.com/heliohq/ship/main/docs/design/004-stage-driven-workflow.md
+- https://raw.githubusercontent.com/heliohq/ship/main/docs/DOCS_INDEX.md
+- https://raw.githubusercontent.com/heliohq/ship/main/scripts/phase-guardrail.sh
+- https://raw.githubusercontent.com/heliohq/ship/main/scripts/session-start.sh
+- https://raw.githubusercontent.com/heliohq/ship/main/scripts/stop-gate.sh
+- https://raw.githubusercontent.com/heliohq/ship/main/hooks/hooks.json
+- https://raw.githubusercontent.com/heliohq/ship/main/.mcp.json
+- https://raw.githubusercontent.com/heliohq/ship/main/AGENTS.md
+- https://raw.githubusercontent.com/heliohq/ship/main/skills/design/SKILL.md
+- https://raw.githubusercontent.com/heliohq/ship/main/skills/dev/SKILL.md
+- https://raw.githubusercontent.com/heliohq/ship/main/skills/e2e/SKILL.md
+- https://raw.githubusercontent.com/heliohq/ship/main/skills/review/SKILL.md
+- https://raw.githubusercontent.com/heliohq/ship/main/skills/qa/SKILL.md
+- https://raw.githubusercontent.com/heliohq/ship/main/skills/handoff/SKILL.md
+- https://raw.githubusercontent.com/heliohq/ship/main/skills/use-ship/SKILL.md
+- https://raw.githubusercontent.com/heliohq/ship/main/docs/skills.md
+
+## OpenHands/OpenHands (+ companion repos)
+- https://github.com/OpenHands/OpenHands
+- https://github.com/OpenHands/OpenHands/releases
+- https://github.com/OpenHands/OpenHands/blob/main/pyproject.toml
+- https://raw.githubusercontent.com/OpenHands/OpenHands/main/.github/workflows/py-tests.yml
+- https://github.com/OpenHands/OpenHands/tree/main/.github/workflows
+- https://raw.githubusercontent.com/OpenHands/OpenHands/main/README.md
+- https://raw.githubusercontent.com/OpenHands/OpenHands/main/AGENTS.md
+- https://github.com/OpenHands/OpenHands/issues/8630
+- https://github.com/OpenHands/OpenHands/issues/13275
+- https://raw.githubusercontent.com/OpenHands/OpenHands/main/frontend/src/components/features/sidebar/sidebar.tsx
+- https://github.com/OpenHands/OpenHands/tree/main
+- https://github.com/OpenHands/OpenHands/tree/main/openhands
+- https://github.com/OpenHands/software-agent-sdk/blob/main/openhands-sdk/openhands/sdk/agent/base.py
+- https://github.com/OpenHands/software-agent-sdk/blob/main/openhands-sdk/openhands/sdk/conversation/state.py
+- https://raw.githubusercontent.com/OpenHands/software-agent-sdk/main/openhands-tools/openhands/tools/task_tracker/definition.py
+- https://github.com/OpenHands/software-agent-sdk/blob/main/examples/01_standalone_sdk/34_critic_example.py
+- https://github.com/OpenHands/OpenHands-CLI/blob/main/README.md
+- https://github.com/marketplace/actions/openhands-pr-review-action
+- docs.openhands.dev/sdk/arch/condenser (WebSearch snippet — direct fetch 403)
+- docs.openhands.dev/sdk/guides/security (WebSearch snippet — direct fetch 403)
+- docs.openhands.dev/sdk/guides/convo-persistence (WebSearch snippet — direct fetch 403)
+- docs.openhands.dev/sdk/arch/agent-server (WebSearch snippet — direct fetch 403)
+- docs.openhands.dev/sdk/getting-started (WebSearch snippet — direct fetch 403)
+- docs.openhands.dev/openhands/usage/agent-canvas/acp-agents (WebSearch snippet — direct fetch 403)
+
+## Access notes
+- All `docs.openhands.dev` pages returned HTTP 403 to direct WebFetch; content for those was obtained via WebSearch result snippets only — lower-fidelity than reading the rendered page, flagged in comparison.md where used.
+- `api.github.com` returned HTTP 403 Forbidden (unauthenticated) for both superpowers and claude-code-harness research — fell back to rendered `github.com` HTML pages per the task's stated fallback policy.
+- GitHub code search (used to try to locate claude-code-harness's `.ts` files) requires authentication and could not be used — that finding is reported as "not found" rather than guessed.
